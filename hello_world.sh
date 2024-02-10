@@ -1,1 +1,1 @@
-echo "hello world"
+echo "hello git 2"
